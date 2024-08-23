@@ -1131,15 +1131,15 @@ a {
 .cid-umdkqFMSaH P {
   text-align: left;
 }
-.cid-umjSdkf3jz {
+.cid-umjTBdWYSn {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-umjSdkf3jz .mbr-fallback-image.disabled {
+.cid-umjTBdWYSn .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-umjSdkf3jz .mbr-fallback-image {
+.cid-umjTBdWYSn .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1148,25 +1148,28 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-umjSdkf3jz .card .card-header {
-  background-color: transparent;
-  margin-bottom: 0;
+.cid-umjTBdWYSn .mbr-iconfont {
+  font-size: 1.4rem !important;
+  font-family: 'Moririse2' !important;
+  color: #076795;
+  margin-left: 1rem;
 }
-.cid-umjSdkf3jz .panel-title {
+.cid-umjTBdWYSn .panel-group {
+  border: none;
+}
+.cid-umjTBdWYSn .panel-title {
   display: flex;
   align-items: center;
   justify-content: space-between;
 }
-.cid-umjSdkf3jz .mbr-iconfont {
-  padding-left: 1rem;
-  font-family: 'Moririse2' !important;
-  font-size: 1.4rem !important;
-  color: #076795;
-}
-.cid-umjSdkf3jz .panel-body,
-.cid-umjSdkf3jz .card-header {
+.cid-umjTBdWYSn .panel-body,
+.cid-umjTBdWYSn .card-header {
   padding: 1rem 0;
 }
-.cid-umjSdkf3jz .panel-title-edit {
+.cid-umjTBdWYSn .panel-title-edit {
   color: #000000;
+}
+.cid-umjTBdWYSn .card .card-header {
+  background-color: transparent;
+  margin-bottom: 0;
 }
