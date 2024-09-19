@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "modules.html",
+    "currentPage": "programme.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -17,7 +17,7 @@
         "display2Font": "Jost",
         "display2Size": "2",
         "display5Font": "Jost",
-        "display5Size": "1.4",
+        "display5Size": "1.6",
         "display7Font": "Jost",
         "display7Size": 1.2,
         "display4Font": "Jost",
@@ -25,7 +25,7 @@
         "isRoundedButtons": true,
         "isGhostButtonBorder": true,
         "underlinedLinks": true,
-        "isAnimatedOnScroll": true,
+        "isAnimatedOnScroll": false,
         "isScrollToTopButton": true
       },
       "titlePreset": "Company",
@@ -37,7 +37,7 @@
       ]
     },
     "path": "@PROJECT_PATH@",
-    "name": "UPEACE course details",
+    "name": "UPEACE course",
     "versionFirst": "5.9.18",
     "siteFonts": [
       {
@@ -49,7 +49,7 @@
     "imageResize": true,
     "uniqCompNum": 36,
     "versionPublish": "5.9.18",
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/phd-0003-128x171_1.png",
     "mbrsiteDomain": "upeace-details",
     "usedWebp": false,
     "robotsSwitcher": false,
@@ -58,7 +58,8 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishEditFolder": true
   },
   "pages": {
     "adm.html": {
