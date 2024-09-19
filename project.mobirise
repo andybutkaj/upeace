@@ -60,7 +60,7 @@
     "cookiesAlert": false,
     "gdpr": false,
     "publishChangesOnly": false,
-    "publishEditFolder": false
+    "publishEditFolder": true
   },
   "pages": {
     "index.html": {
