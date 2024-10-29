@@ -50,7 +50,7 @@
     "uniqCompNum": 104,
     "versionPublish": "5.9.18",
     "favicon": "@PROJECT_PATH@/assets/images/phd-0003-128x171_1.png",
-    "mbrsiteDomain": "aadqydri3t",
+    "mbrsiteDomain": "upeace-details",
     "usedWebp": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -4573,7 +4573,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Main",
+        "title": "PODAC",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
